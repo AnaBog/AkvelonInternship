@@ -1,0 +1,16 @@
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (2, 'Glauhmh', 'Niootat', 'Gremlin', 2); 
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (3, 'Nairoladn', 'Planet x', 'Space Elf', 4); 
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (4, 'Roo', 'Niootat', 'Puff', 5); 
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (5, 'N-X34', 'Niootat', 'SpaceWhale', 7); 
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (6, 'ZX', 'Niootat', 'Tut', 6); 
+INSERT INTO Aliens(AlienId, AlienName, HomePlanet, Race, ThreatLevel) VALUES (7, 'WegXDE', 'Planet x', 'Gremlin', 5); 
+
+DELETE FROM Aliens WHERE HomePlanet = 'Planet x';
+
+UPDATE Aliens SET ThreatLevel = 100 
+WHERE AlienId = 1;
+
+SELECT * FROM Aliens 
+WHERE Race = 'Gremlin';
+
+SELECT * FROM Aliens
