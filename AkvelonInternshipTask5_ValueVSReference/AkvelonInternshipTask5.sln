@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkvelonInternshipTask5", "AkvelonInternshipTask5\AkvelonInternshipTask5.csproj", "{7EF6178B-A787-4518-84B4-7F48CA5670E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF6178B-A787-4518-84B4-7F48CA5670E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF6178B-A787-4518-84B4-7F48CA5670E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF6178B-A787-4518-84B4-7F48CA5670E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF6178B-A787-4518-84B4-7F48CA5670E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D171693-BA0C-4CFC-AC2F-8B4FCCFB7FE3}
+	EndGlobalSection
+EndGlobal
