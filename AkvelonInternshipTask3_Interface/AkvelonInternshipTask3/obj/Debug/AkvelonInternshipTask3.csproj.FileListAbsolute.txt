@@ -1,0 +1,8 @@
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\bin\Debug\AkvelonInternshipTask3.exe.config
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\bin\Debug\AkvelonInternshipTask3.exe
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\bin\Debug\AkvelonInternshipTask3.pdb
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\obj\Debug\AkvelonInternshipTask3.csproj.AssemblyReference.cache
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\obj\Debug\AkvelonInternshipTask3.csproj.SuggestedBindingRedirects.cache
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\obj\Debug\AkvelonInternshipTask3.csproj.CoreCompileInputs.cache
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\obj\Debug\AkvelonInternshipTask3.exe
+C:\Users\gljiv\source\repos\AkvelonInternshipTask3\AkvelonInternshipTask3\obj\Debug\AkvelonInternshipTask3.pdb
